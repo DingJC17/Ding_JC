@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
 
-You can use the [editor on GitHub](https://github.com/DingJC17/Ding_JC/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Dingjc.I am a student in China University of petroleum.It's my first time to design a webpage.
 
 ### Markdown
 
